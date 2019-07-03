@@ -4,15 +4,15 @@ h1 {color: black;
 /* Colors */
 
 .color1 {
-    background: lightslategray;
+    background: lightgrey;
   }
   
   .color2 {
-    background: rgba(102, 56, 240, 1.00);
+    background: lightblue;
   }
   
   .color3 {
-    background: rgba(92, 201, 245, 1.00);
+    background: lightgoldenrodyellow;
   }
   
   .color4 {
@@ -24,7 +24,7 @@ h1 {color: black;
   }
   
   .color6 {
-    background: rgba(113, 56, 131, 1.00);
+    background: lightsalmon;
   }
   .bx {
     border: solid 1px #ff0000;
