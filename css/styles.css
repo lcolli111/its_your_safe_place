@@ -1,4 +1,4 @@
-h1 {color: #000fff;
+h1 {color: black;
 
 }
 /* Colors */
@@ -50,4 +50,13 @@ h1 {color: #000fff;
     border: solid 1px #000000;
     margin: 1rem;
    }
-    @media screen and (min-width: 800px) { }
+    @media screen and (max-width: 800px) {
+     .bx{
+     width: 90%;    
+      
+     }
+     .container-grid{
+     display: unset;
+
+     }
+     }
