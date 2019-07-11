@@ -1,6 +1,10 @@
 h1 {color: black;
 
 }
+a {
+color: yellowgreen;
+
+}
 /* Colors */
 
 .color1 {
@@ -34,6 +38,8 @@ h1 {color: black;
   }
   .bx:hover{
     font-weight: bold;
+    /* Cursor should be pointer */
+
   }
   .container-grid {display: grid;
 
