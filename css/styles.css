@@ -35,9 +35,11 @@ color: yellowgreen;
     margin: 1rem;
     padding: 20px;
     border-radius: 8px;
+    
   }
   .bx:hover{
     font-weight: bold;
+    font-size:
     /* Cursor should be pointer */
 
   }
@@ -73,6 +75,12 @@ color: yellowgreen;
 
       background-color: pink;
       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: 1em;
 
 
      }
+      .p:hover{
+        font-weight: bold;
+
+
+      }
