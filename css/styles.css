@@ -4,9 +4,9 @@ h1 {color: black;
 body {
 background-color: lightgray;
 }
-}
+
 a {
-color: yellowgreen;
+color: deepskyblue;
 
 }
 /* Colors */
@@ -16,7 +16,7 @@ color: yellowgreen;
   }
   
   .color2 {
-    background: deeppink;
+    background: lightcyan;
   }
   
   .color3 {
@@ -24,18 +24,18 @@ color: yellowgreen;
   }
   
   .color4 {
-    background: rgba(74, 242, 161, 1.00);
+    background: lightseagreen;
   }
   
   .color5 {
-    background: rgba(176, 245, 102, 1.00);
+    background: lightskyblue;
   }
   
   .color6 {
     background: lightpink;
   }
   .bx {
-    border: solid 1px #ff0000;
+    border: solid 1px black;
     margin: 1rem;
     padding: 20px;
     border-radius: 8px;
@@ -55,8 +55,8 @@ color: yellowgreen;
 
     width:100%;
     max-width:1000px;
-    margin: 0 auto 2em;
-    border: 1px solid limegreen;
+    margin: 0 auto 1em;
+    border: 1px solid black;
    
      grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
