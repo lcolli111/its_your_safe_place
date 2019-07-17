@@ -1,6 +1,10 @@
 h1 {color: black;
 
 }
+body {
+background-color: lightgray;
+}
+}
 a {
 color: yellowgreen;
 
@@ -35,6 +39,7 @@ color: yellowgreen;
     margin: 1rem;
     padding: 20px;
     border-radius: 8px;
+    
     
   }
   .bx:hover{
