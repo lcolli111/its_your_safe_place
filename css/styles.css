@@ -3,6 +3,7 @@ text-align: center;
 }
 h2 {
   text-align: center;
+  
 }
 body {
 background-color: lightgray;
@@ -71,6 +72,7 @@ color: blue;
 
     border: solid 1px #000000;
     margin: 1rem;
+    
    }
     @media screen and (max-width: 800px) {
      .bx{
@@ -95,3 +97,7 @@ color: blue;
 
 
       }
+      
+    
+
+      
