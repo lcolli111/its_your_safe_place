@@ -76,6 +76,12 @@ color: blue;
     margin: .2rem;
     
    }
+   ul {
+    
+
+   }
+
+
     @media screen and (max-width: 800px) {
      .bx{
      width: 90%;    
