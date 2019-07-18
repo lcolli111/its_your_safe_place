@@ -28,7 +28,7 @@ color: blue;
   }
   
   .color4 {
-    background: lightseagreen;
+    background: lightgreen;
   }
   
   .color5 {
@@ -102,7 +102,11 @@ color: blue;
      }
       .p:hover{
         font-weight: bold;
-
+      }
+      .li{
+        font-weight: bold;
+        font-size: 1em;
+        font-family: Arial, Helvetica, sans-serif;
 
       }
       
