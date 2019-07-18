@@ -60,7 +60,9 @@ color: blue;
     width:100%;
     max-width:1000px;
     margin: 0 auto 1em;
-    border: 1px solid black;
+    
+    
+    
    
      grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
@@ -71,7 +73,7 @@ color: blue;
    .bx {
 
     border: solid 1px #000000;
-    margin: 1rem;
+    margin: .2rem;
     
    }
     @media screen and (max-width: 800px) {
