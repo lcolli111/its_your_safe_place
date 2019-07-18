@@ -9,5 +9,7 @@ $(".bx").click(function(event) {
     // find the a tag inside the box
     // get the "href" value from the a tag (attr)
     // window location href 
-    // tell the brower to load another webpage
+    // tell the browser to load another webpage
   });
+  prompt("What is your first name?")
+  
