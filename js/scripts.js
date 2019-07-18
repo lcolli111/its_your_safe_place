@@ -11,5 +11,7 @@ $(".bx").click(function(event) {
     // window location href 
     // tell the browser to load another webpage
   });
-  prompt("What is your first name?")
-  
+  var visitor = prompt("What is your name?");
+  var message = "Hello " + visitor;
+  message = message + " Thank you for visiting!";
+  document.write(message);
