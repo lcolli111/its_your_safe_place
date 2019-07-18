@@ -1,12 +1,12 @@
 h1 {color: black;
-
+text-align: center;
 }
 body {
 background-color: lightgray;
 }
 
 a {
-color: deepskyblue;
+color: blue;
 
 }
 /* Colors */
@@ -83,7 +83,7 @@ color: deepskyblue;
 
       background-color: pink;
       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-      font-size: 1em;
+      font-size: 3em;
 
 
      }
