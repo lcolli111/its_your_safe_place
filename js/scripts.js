@@ -14,6 +14,8 @@ $(".bx").click(function(event) {
   var visitor = prompt("What is your name?");
   var message = "Welcome " + visitor;
   alert(message);
+ // $(".li").hide().delay(2000).fadeIn();
+ //see "@media" .bx property to readjust to 90%.
   
     
 
