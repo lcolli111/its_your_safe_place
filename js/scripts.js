@@ -1,6 +1,15 @@
 $(".bx").click(function(event) {
     // $( "#foo" ).trigger( "click" );
     console.log(event.delegateTarget);
+    var d = new Date();
+    alert(d);
+    year = d.getFullYear();
+    month = d.getMonth();
+
+    
+
+  
+
     // $( event.delegateTarget ).find("a").trigger("click");
     // event.stopPropagation();
     
@@ -14,6 +23,7 @@ $(".bx").click(function(event) {
   var visitor = prompt("What is your name?");
   var message = "Welcome " + visitor;
   alert(message);
+  
  // $(".li").hide().delay(2000).fadeIn();
  //see "@media" .bx property to readjust to 90%.
   

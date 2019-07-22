@@ -92,21 +92,21 @@ color: blue;
 
      }
      } 
-     .p {
-
-      background-color: pink;
+     .li {
       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
       font-size: 3em;
 
 
      }
-      .p:hover{
+      .li:hover{
         font-weight: bold;
+        cursor: default;
       }
       .li{
-        font-weight: bold;
+        
         font-size: 1em;
         font-family: Arial, Helvetica, sans-serif;
+        
         
         
       }
