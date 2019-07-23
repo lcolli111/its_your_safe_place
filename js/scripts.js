@@ -5,6 +5,7 @@ $(".bx").click(function(event) {
     alert(d);
     year = d.getFullYear();
     month = d.getMonth();
+    now.getTime();
 
     
 
@@ -20,9 +21,9 @@ $(".bx").click(function(event) {
     // window location href 
     // tell the browser to load another webpage
   });
-  var visitor = prompt("What is your name?");
-  var message = "Welcome " + visitor;
-  alert(message);
+ // var visitor = prompt("What is your name?");
+  //var message = "Welcome " + visitor;
+  //alert(message);
   
  // $(".li").hide().delay(2000).fadeIn();
  //see "@media" .bx property to readjust to 90%.

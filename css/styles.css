@@ -76,6 +76,15 @@ color: blue;
     margin: .2rem;
     
    }
+   #demo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+
+   }
+   p {
+    font-weight: bold;
+
+   }
    
     
 
