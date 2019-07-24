@@ -2,10 +2,11 @@ $(".bx").click(function(event) {
     // $( "#foo" ).trigger( "click" );
     console.log(event.delegateTarget);
     var d = new Date();
-    alert(d);
+    
     year = d.getFullYear();
     month = d.getMonth();
     now.getTime();
+     
 
     
 
