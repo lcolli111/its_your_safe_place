@@ -1,3 +1,16 @@
+
+  
+  var d = new Date();
+  document.getElementById("demo").innerHTML = d;
+  
+ 
+
+
+
+
+
+
+
 $(".bx").click(function(event) {
     // $( "#foo" ).trigger( "click" );
     console.log(event.delegateTarget);
